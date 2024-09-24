@@ -1,1 +1,7 @@
-hi this is a git demo
+git clone
+git pull
+git checkout
+git branch
+git add .
+git commit
+git push origin
